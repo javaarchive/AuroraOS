@@ -1,0 +1,5 @@
+{
+    "name": "WebBrowser",
+    "startOnBoot": false,
+    "isApp": true
+}
